@@ -30,7 +30,7 @@ int main(void)
 		
 	} 
 	
-	printf("从大到小排序为：%d %d %d\n", a, b, c);
+	printf("从小到大排序为：%d %d %d\n", c, b, a);
 	
 	return 0;
 	
